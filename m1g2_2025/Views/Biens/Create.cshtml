@@ -1,0 +1,93 @@
+﻿@model m1g2_2025.Models.Bien
+@using m1g2_2025.Models;
+
+@{
+    ViewBag.Title = Langues.titreCreerBien;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="my-4">@Langues.textBien</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="card shadow p-4 bg-light">
+        @Html.ValidationSummary(true, "", new { @class = "alert alert-danger" })
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.LibelleBien, "Libellé", new { @class = "form-label" })
+                @Html.EditorFor(model => model.LibelleBien, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.LibelleBien, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.DescriptionBien, "Description", new { @class = "form-label" })
+                @Html.TextAreaFor(model => model.DescriptionBien, new { @class = "form-control", rows = 4 })
+                @Html.ValidationMessageFor(model => model.DescriptionBien, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.PrixJournalier, "Prix Journalier", new { @class = "form-label" })
+                @Html.EditorFor(model => model.PrixJournalier, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PrixJournalier, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.TypeBien, "Type de bien", new { @class = "form-label" })
+                @Html.EditorFor(model => model.TypeBien, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.TypeBien, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.Region, "Région", new { @class = "form-label" })
+                @Html.EditorFor(model => model.Region, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Region, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.Pays, "Pays", new { @class = "form-label" })
+                @Html.EditorFor(model => model.Pays, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Pays, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.Latitude, "Latitude", new { @class = "form-label" })
+                @Html.EditorFor(model => model.Latitude, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Latitude, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.Longitude, "Longitude", new { @class = "form-label" })
+                @Html.EditorFor(model => model.Longitude, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Longitude, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.NbreChambre, "Nombre de chambres", new { @class = "form-label" })
+                @Html.EditorFor(model => model.NbreChambre, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NbreChambre, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-md-6 mb-3">
+                @Html.LabelFor(model => model.NbreLit, "Nombre de lits", new { @class = "form-label" })
+                @Html.EditorFor(model => model.NbreLit, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NbreLit, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <br>
+        <div class="d-flex justify-content-between">
+            <a href="@Url.Action("Index")" class="btn btn-secondary">Retour à la liste</a>
+            <button type="submit" class="btn btn-success">@Langues.addBtn</button>
+        </div>
+    </div>
+    
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

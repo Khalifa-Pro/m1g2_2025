@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|c:\\users\\finapps\\source\\repos\\m1g2_2025\\m1g2_2025\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\biens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\biens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|c:\\users\\finapps\\source\\repos\\m1g2_2025\\m1g2_2025\\models\\langues.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\models\\langues.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\controllers\\bienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\controllers\\bienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\biens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\biens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|c:\\users\\finapps\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\employees1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\employees1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\controllers\\employees1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\controllers\\employees1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|c:\\users\\finapps\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\employees1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\employees1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\assets\\js\\employeejs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\assets\\js\\employeejs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|c:\\users\\finapps\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\biens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\biens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|c:\\users\\finapps\\source\\repos\\m1g2_2025\\m1g2_2025\\models\\m1gl2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\models\\m1gl2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\annonces\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\annonces\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\annonces\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\annonces\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\controllers\\annoncescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\controllers\\annoncescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\biens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\biens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\biens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\biens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\models\\annonce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\models\\annonce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\models\\gestionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\models\\gestionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118537F-B13F-428D-A021-CC20782DDBFA}|m1g2_2025\\m1g2_2025.csproj|solutionrelative:m1g2_2025\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Biens\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Delete.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Biens\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T15:39:54.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BiensController.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\BiensController.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Controllers\\BiensController.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\BiensController.cs",
+              "RelativeToolTip": "m1g2_2025\\Controllers\\BiensController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:07:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Langues.resx",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Langues.resx",
+              "RelativeDocumentMoniker": "m1g2_2025\\Models\\Langues.resx",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Langues.resx",
+              "RelativeToolTip": "m1g2_2025\\Models\\Langues.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-07T19:28:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Employees1\\Create.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Employees1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Employees1\\Create.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Employees1\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T20:13:44.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeJS.js",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\assets\\js\\EmployeeJS.js",
+              "RelativeDocumentMoniker": "m1g2_2025\\assets\\js\\EmployeeJS.js",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\assets\\js\\EmployeeJS.js",
+              "RelativeToolTip": "m1g2_2025\\assets\\js\\EmployeeJS.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-07T12:24:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Employees1\\Index.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Employees1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Employees1\\Index.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Employees1\\Index.cshtml",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAEwKIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T13:57:00.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employees1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\Employees1Controller.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Controllers\\Employees1Controller.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\Employees1Controller.cs",
+              "RelativeToolTip": "m1g2_2025\\Controllers\\Employees1Controller.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA9wBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:53:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "m1g2_2025\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:55:37.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Employee\\List.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Employee\\List.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Employee\\List.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Employee\\List.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswFgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T12:15:28.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Index.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Biens\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Index.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Biens\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T18:58:04.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAYwLQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T18:40:24.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "m1gl2Context.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\m1gl2Context.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Models\\m1gl2Context.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\m1gl2Context.cs",
+              "RelativeToolTip": "m1g2_2025\\Models\\m1gl2Context.cs",
+              "ViewState": "AQIAAAkAAABAx3Ecv4QqwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:33:28.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "m1g2_2025\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:18:14.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T22:28:56.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Web.config",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Web.config",
+              "RelativeToolTip": "m1g2_2025\\Views\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-07T12:09:14.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "m1g2_2025\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T22:54:51.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "m1g2_2025\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\assets\\css\\style.css",
+              "RelativeToolTip": "m1g2_2025\\assets\\css\\style.css",
+              "ViewState": "AQIAANsCAAAAAAAAAAAiwOICAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-17T18:39:16.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Annonces\\Index.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Annonces\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Annonces\\Index.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Annonces\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T10:58:32.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Annonces\\Create.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Annonces\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Annonces\\Create.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Annonces\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwBgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T10:58:02.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnnoncesController.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\AnnoncesController.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Controllers\\AnnoncesController.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Controllers\\AnnoncesController.cs",
+              "RelativeToolTip": "m1g2_2025\\Controllers\\AnnoncesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:20:27.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "m1g2_2025\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T22:54:31.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Details.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Biens\\Details.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Details.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Biens\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T15:15:31.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Biens\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Edit.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Biens\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T15:16:10.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T22:56:44.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T22:56:49.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\packages.config",
+              "RelativeDocumentMoniker": "m1g2_2025\\packages.config",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\packages.config",
+              "RelativeToolTip": "m1g2_2025\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-17T19:07:48.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T22:28:37.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Media.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Models\\Media.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Media.cs",
+              "RelativeToolTip": "m1g2_2025\\Models\\Media.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:39:26.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Annonce.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Annonce.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Models\\Annonce.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Annonce.cs",
+              "RelativeToolTip": "m1g2_2025\\Models\\Annonce.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:40:42.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Reservation.cs",
+              "RelativeToolTip": "m1g2_2025\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:41:13.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Web.config",
+              "RelativeDocumentMoniker": "m1g2_2025\\Web.config",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Web.config",
+              "RelativeToolTip": "m1g2_2025\\Web.config",
+              "ViewState": "AQIAADsAAAAAAAAAAKBrwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-03T13:54:15.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "m1g2_2025\\Models\\Utilisateur.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T23:47:05.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Admin.cs",
+              "RelativeToolTip": "m1g2_2025\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:37:16.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Client.cs",
+              "RelativeToolTip": "m1g2_2025\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABhwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:58:55.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Gestionnaire.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Gestionnaire.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Models\\Gestionnaire.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Models\\Gestionnaire.cs",
+              "RelativeToolTip": "m1g2_2025\\Models\\Gestionnaire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:37:07.38Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Global.asax.cs",
+              "RelativeDocumentMoniker": "m1g2_2025\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Global.asax.cs",
+              "RelativeToolTip": "m1g2_2025\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:43:08.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Create.cshtml",
+              "RelativeDocumentMoniker": "m1g2_2025\\Views\\Biens\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\m1g2_2025\\m1g2_2025\\Views\\Biens\\Create.cshtml",
+              "RelativeToolTip": "m1g2_2025\\Views\\Biens\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T09:59:21.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

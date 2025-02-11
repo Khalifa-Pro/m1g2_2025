@@ -1,0 +1,76 @@
+﻿@model PagedList.IPagedList<m1g2_2025.Models.Bien>
+@using PagedList.Mvc
+
+
+@{
+    ViewBag.Title = "Liste des biens";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="my-4">Liste des biens</h2>
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-warning">
+        <strong><i class="bi bi-plus-circle"></i> Nouveau  </strong>
+    </a>
+</p>
+
+@using (Html.BeginForm())
+{
+    <div class="row align-items-center">
+        <div class="col-md-4 mb-3">
+            @Html.TextBox("libelle", ViewBag.libelle as string, new { @class = "form-control", placeholder = "Libellé" })
+        </div>
+        <div class="col-md-4 mb-3" style="margin-left:-70px">
+            @Html.TextBox("region", ViewBag.region as string, new { @class = "form-control", placeholder = "Région" })
+        </div>
+        <div class="col-md-2 mb-3">
+            <button type="submit" class="btn btn-warning d-flex align-items-center" style="margin-left:-70px">
+                <i class="bi bi-search"></i>
+            </button>
+        </div>
+    </div>
+
+    <br>
+}
+
+<table style="margin-top: -30px; font-size:12px; text-align:center" class="table table-striped table-hover">
+
+    <thead class="table-light">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().LibelleBien)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().DescriptionBien)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().PrixJournalier)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Region)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().Pays)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().NbreChambre)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstOrDefault().TypeBien)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.LibelleBien)</td>
+                <td>@Html.DisplayFor(modelItem => item.DescriptionBien)</td>
+                <td>@Html.DisplayFor(modelItem => item.PrixJournalier)</td>
+                <td>@Html.DisplayFor(modelItem => item.Region)</td>
+                <td>@Html.DisplayFor(modelItem => item.Pays)</td>
+                <td>@Html.DisplayFor(modelItem => item.NbreChambre)</td>
+                <td>@Html.DisplayFor(modelItem => item.TypeBien)</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = item.IdBien })" class="btn btn-sm btn-primary" title="Modifier">
+                        <i class="bi bi-pencil-square"></i>
+                    </a>
+                    <a href="@Url.Action("Details", new { id = item.IdBien })" class="btn btn-sm btn-info" title="Détails">
+                        <i class="bi bi-info-circle"></i>
+                    </a>
+                    <a href="@Url.Action("Delete", new { id = item.IdBien })" class="btn btn-sm btn-danger" title="Supprimer">
+                        <i class="bi bi-trash"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { libelle = ViewBag.libelle, region = ViewBag.region, page = page }))

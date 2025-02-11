@@ -1,0 +1,52 @@
+﻿@model IEnumerable<m1g2_2025.Models.Annonce>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Bien.LibelleBien)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateDebut)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateFin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StatutAnnonce)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Bien.LibelleBien)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateDebut)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateFin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StatutAnnonce)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdAnnonce }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdAnnonce }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdAnnonce })
+        </td>
+    </tr>
+}
+
+</table>

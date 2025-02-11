@@ -1,0 +1,51 @@
+﻿@model m1g2_2025.Models.Annonce
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Annonce</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Bien.LibelleBien)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bien.LibelleBien)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateDebut)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateDebut)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateFin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateFin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StatutAnnonce)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StatutAnnonce)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdAnnonce }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

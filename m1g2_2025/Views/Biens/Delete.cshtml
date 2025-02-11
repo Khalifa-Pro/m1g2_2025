@@ -1,0 +1,63 @@
+﻿@model m1g2_2025.Models.Bien
+
+@{
+    ViewBag.Title = "Supprimer un bien";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="card shadow border-0">
+        <div class="card-header bg-danger text-white">
+            <h3 class="mb-0">Confirmer la suppression</h3>
+        </div>
+        <div class="card-body">
+            <p class="text-center text-muted">
+                Êtes-vous sûr de vouloir supprimer ce bien ? Cette action est irréversible.
+            </p>
+
+            <div class="mt-4">
+                <h4 class="text-primary">Détails du bien</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-4">Libellé</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.LibelleBien)</dd>
+
+                    <dt class="col-sm-4">Description</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.DescriptionBien)</dd>
+
+                    <dt class="col-sm-4">Prix Journalier</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.PrixJournalier)</dd>
+
+                    <dt class="col-sm-4">Région</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Region)</dd>
+
+                    <dt class="col-sm-4">Pays</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Pays)</dd>
+
+                    <dt class="col-sm-4">Latitude</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Latitude)</dd>
+
+                    <dt class="col-sm-4">Longitude</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Longitude)</dd>
+
+                    <dt class="col-sm-4">Nombre de chambres</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.NbreChambre)</dd>
+
+                    <dt class="col-sm-4">Nombre de lits</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.NbreLit)</dd>
+
+                    <dt class="col-sm-4">Type de bien</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.TypeBien)</dd>
+                </dl>
+            </div>
+        </div>
+        <div class="card-footer d-flex justify-content-between">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <button type="submit" class="btn btn-danger">Supprimer</button>
+            }
+            <a href="@Url.Action("Index")" class="btn btn-secondary">Retour à la liste</a>
+        </div>
+    </div>
+</div>
